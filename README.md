@@ -1,5 +1,4 @@
 ### Hi there, I'm **Ilia** 👋
-### Location: *Minsk*,***Belarus***
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything ***[here](https://t.me/auwjnQh1Pa "Hello there!")***
