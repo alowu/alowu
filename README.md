@@ -5,7 +5,6 @@
 - 💬 Ask me about anything ***[here](https://t.me/auwjnQh1Pa "Hello there!")***
 
 ### Connect with me:
-[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg)](https://t.me/auwjnQh1Pa)
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://vk.com/grakzrfe" target="blank">
@@ -15,6 +14,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="ttre16" height="30" width="40" />
 </a>
 </p>
+
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11)
