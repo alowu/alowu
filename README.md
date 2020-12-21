@@ -1,4 +1,4 @@
-### Hi there, I'm [**Ilia**](https://github.com/alowu) 👋
+### Hi there, I'm [**Ilia**] 👋
 ### Location: *Minsk*,***Belarus***
 
 - 🌱 I’m currently learning Java
@@ -7,16 +7,18 @@
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://vk.com/grakzrfe" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="iliatretiak" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="grakzrfe" height="30" width="40" />
 </a>
-<a href="http://t.me/ttre16" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="ttre16" height="30" width="40" />
+<a href="https://t.me/auwjnQh1Pa" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="auwjnQh1Pa" height="30" width="40" />
 </a>
 </p>
 
-### Languages
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11)
+<p align="left"> 
+<h3 align="left">Languages</h3>
+  <img align="center" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11" height="30" width="40" />
+</p>
 
 <h3 align="left">GitHub stats:</h3>
 <p align="center">
