@@ -1,4 +1,4 @@
-### Hi there, I'm [**Ilia**] 👋
+### Hi there, I'm **Ilia** 👋
 ### Location: *Minsk*,***Belarus***
 
 - 🌱 I’m currently learning Java
@@ -15,9 +15,9 @@
 </p>
 
 <p align="left"> 
-<h3 align="left">Languages</h3>
-  <img align="center" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height="30" width="40" />
-  <img align="center" src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11" height="30" width="40" />
+<h3 align="left">Languages:</h3>
+  <img align="center" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height="30" width="60" />
+  <img align="center" src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11" height="30" width="60" />
 </p>
 
 <h3 align="left">GitHub stats:</h3>
