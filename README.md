@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm [**Ilia**](https://github.com/alowu) 👋
+### Location: *Minsk*,***Belarus***
 
-<!--
-**alowu/alowu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Java
+- 💬 Ask me about anything ***[here](https://t.me/auwjnQh1Pa "Hello there!")***
 
-Here are some ideas to get you started:
+### Connect with me:
+[![VK](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg)](https://vk.com/grakzrfe)
+[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg)](https://t.me/auwjnQh1Pa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11)
+
+<h3 align="left">GitHub stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alowu&hide=issues,stars&theme=buefy&show_icons=true&cache_seconds=1800&hide_title=true" />
+</p>
