@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything ***[here](https://t.me/auwjnQh1Pa "Hello there!")***
 
-### Connect with me:
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://vk.com/grakzrfe" target="blank">
