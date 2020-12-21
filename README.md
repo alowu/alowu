@@ -16,8 +16,12 @@
 
 <p align="left"> 
 <h3 align="left">Languages:</h3>
-  <img align="center" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height="30" width="60" />
-  <img align="center" src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11" height="30" width="60" />
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" alt="C++" height="30" width="70" />
+</a>
+<a href="https://www.java.com/ru/download/manual.jsp" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11" alt="Java" height="30" width="70" />
+</a>
 </p>
 
 <h3 align="left">GitHub stats:</h3>
