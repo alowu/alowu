@@ -4,8 +4,8 @@
 
 **Find me at:**
 
-[![vk]](https://vk.com/grakzrfe)
-[![telegram]](https://t.me/auwjnQh1Pa)
+[![vk]https://github.com/alowu/alowu/blob/main/icons/vk.png](https://vk.com/grakzrfe)
+[![telegram]https://github.com/alowu/alowu/blob/main/icons/telegram.png](https://t.me/auwjnQh1Pa)
 
 <details>
   <summary>Details</summary>
