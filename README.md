@@ -1,18 +1,14 @@
 ### Hi there, I'm **Ilia** 👋
 
 - 🌱 I’m currently learning Java
-- 💬 Ask me about anything ***[here](https://t.me/auwjnQh1Pa "Hello there!")***
 
-<p align="left"> 
-<h3 align="left">Connect with me:</h3>
-<a href="https://vk.com/grakzrfe" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="grakzrfe" height="30" width="40" />
-</a>
-<a href="https://t.me/auwjnQh1Pa" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="auwjnQh1Pa" height="30" width="40" />
-</a>
-</p>
+**Find me at:**
 
+[![vk](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg)](https://vk.com/grakzrfe)
+[![telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg](https://t.me/auwjnQh1Pa)
+
+<details>
+  <summary>Details</summary>
 <p align="left"> 
 <h3 align="left">Languages:</h3>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank">
@@ -23,7 +19,9 @@
 </a>
 </p>
 
-<h3 align="left">GitHub stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alowu&hide=issues,stars&theme=buefy&show_icons=true&cache_seconds=1800&hide_title=true" />
-</p>
+### Statistics
+  <img src="https://github-readme-stats.vercel.app/api?username=alowu&show_icons=true" alt="GitHub stats">
+  
+### Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=houarizegai)
+</details>
