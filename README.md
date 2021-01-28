@@ -4,8 +4,8 @@
 
 **Find me at:**
 
-[![vk](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg)](https://vk.com/grakzrfe)
-[![telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg](https://t.me/auwjnQh1Pa)
+[![vk]](https://vk.com/grakzrfe)
+[![telegram]](https://t.me/auwjnQh1Pa)
 
 <details>
   <summary>Details</summary>
@@ -23,5 +23,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alowu&show_icons=true" alt="GitHub stats">
   
 ### Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=houarizegai)
+![trophy](https://github-profile-trophy.vercel.app/?username=alowu)
 </details>
