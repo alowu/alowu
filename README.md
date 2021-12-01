@@ -1,11 +1,11 @@
 ### Hi there, I'm **Ilia** 👋
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C
 
 **Find me at:**
 
 [![vk](https://github.com/alowu/alowu/blob/main/icons/vk.png)](https://vk.com/grakzrfe)
-[![telegram](https://github.com/alowu/alowu/blob/main/icons/telegram.png)](https://t.me/auwjnQh1Pa)
+[![telegram](https://github.com/alowu/alowu/blob/main/icons/telegram.png)](https://t.me/FGH378yufs)
 
 <details>
   <summary>Details</summary>
